@@ -1,4 +1,4 @@
-practicing fetching from APIs using the useeffect hook.  uses setLoading to make sure data is loaded onto the page
+practicing fetching from APIs using the useeffect hook.  uses setLoading to make sure data is loaded before trying to render
 
 Pokemon fetch uses Promise.all() to fetch specific pokemon that are populated in an array
 
